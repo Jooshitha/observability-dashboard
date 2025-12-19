@@ -1,7 +1,9 @@
 # React Flow Service Graph Application
 
 A production-quality React + TypeScript application that displays service graphs with interactive node inspection capabilities.
+## Live Demo
 
+🚀 **[View Live Application](https://observability-dashboard-kappa.vercel.app/)**
 ## Setup Instructions
 
 1. **Install dependencies:**
